@@ -1,2 +1,2 @@
-# autonet
+# netutils
 Personal script repository for network and server automation ideas.
