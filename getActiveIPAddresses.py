@@ -1,3 +1,5 @@
+## Created by Eric Chambers on 10/27/2018. See https://github.com/ericchambers1940/netutils.git
+
 ## Load the ipaddress module for IPv4 operations and the OS module for executing the ping utility.
 import ipaddress
 import os
